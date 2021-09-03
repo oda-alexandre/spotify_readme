@@ -4,7 +4,7 @@
 
 </div>
 
----
+![separator](https://user-images.githubusercontent.com/43296168/132062615-3b18c43a-fa5f-45f2-99c3-4b831cde910e.gif)
 
 <div style="color:rgb(17, 100, 102); font-family: 'Merriweather'" align="center">
 
@@ -24,7 +24,7 @@
 
 </div>
 
----
+![separator](https://user-images.githubusercontent.com/43296168/132062615-3b18c43a-fa5f-45f2-99c3-4b831cde910e.gif)
 
 ## Refresh Token
 
@@ -46,7 +46,7 @@ curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorizat
 
 - Save the Refresh token
 
----
+![separator](https://user-images.githubusercontent.com/43296168/132062615-3b18c43a-fa5f-45f2-99c3-4b831cde910e.gif)
 
 ## Vercel
 
@@ -63,7 +63,7 @@ curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorizat
 
 - Deploy !
 
----
+![separator](https://user-images.githubusercontent.com/43296168/132062615-3b18c43a-fa5f-45f2-99c3-4b831cde910e.gif)
 
 ## ReadMe
 
@@ -89,3 +89,5 @@ Themes :
 - `dark`
 
 If you wish to customize farther, you can add your own customized `spotify-light.html.j2` file to the templates folder, and add the theme and file name to the `templates` dictionary in the `templates.json` file.
+
+![separator](https://user-images.githubusercontent.com/43296168/132062615-3b18c43a-fa5f-45f2-99c3-4b831cde910e.gif)
