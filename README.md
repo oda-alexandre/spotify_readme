@@ -1,6 +1,6 @@
 <div style="color:rgb(17, 100, 102); font-family: 'Merriweather'" align="center">
 
-[![Spotify](https://spotify-readme-maitre-oda.vercel.app/api/spotify)](https://open.spotify.com/user/11180412955)
+[![Spotify](https://spotify-readme-maitre-oda.vercel.app/api/spotify)](https://open.spotify.com/user/maitre_oda)
 
 </div>
 
