@@ -1,6 +1,6 @@
 <div style="color:rgb(17, 100, 102); font-family: 'Merriweather'" align="center">
 
-[![Spotify](https://maitre_oda.vercel.app/api/spotify)](https://open.spotify.com/user/maitre_oda)
+[![Spotify](https://spotify-readme-maitre-oda.vercel.app/api/spotify)](https://open.spotify.com/user/maitre_oda)
 
 </div>
 
@@ -75,9 +75,9 @@ You can now use the following in your readme :
 
 Have a string saying either "Vibing to:" or "Last seen playing:".
 
-- Change [`height` to `height + 40`](https://github.com/maitre_oda/maitre_oda/blob/5194a689253ee4c89a9d365260d6050923d93dd5/api/templates/spotify-light.html.j2#L1-L2) (or whatever `margin-top` is set to)
-- Uncomment [**.main**'s `margin-top`](https://github.com/maitre_oda/maitre_oda/blob/5194a689253ee4c89a9d365260d6050923d93dd5/api/templates/spotify-light.html.j2#L10)
-- Uncomment [currentStatus](https://github.com/maitre_oda/maitre_oda/blob/5194a689253ee4c89a9d365260d6050923d93dd5/api/templates/spotify-light.html.j2#L93)
+- Change [`height` to `height + 40`](https://github.com/maitre_oda/maitre_oda/api/templates/spotify-light.html.j2#L1-L2) (or whatever `margin-top` is set to)
+- Uncomment [**.main**'s `margin-top`](https://github.com/maitre_oda/maitre_oda/api/templates/spotify-light.html.j2#L10)
+- Uncomment [currentStatus](https://github.com/maitre_oda/maitre_oda/api/templates/spotify-light.html.j2#L93)
 
 ### Theme Templates
 
