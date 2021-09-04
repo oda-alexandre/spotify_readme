@@ -1,4 +1,4 @@
-<div style="color:rgb(17, 100, 102); font-family: 'Merriweather'" align="center">
+<div align="center">
 
 [![Spotify](https://spotify-readme-maitre-oda.vercel.app/api/spotify)](https://open.spotify.com/user/maitre_oda)
 
@@ -6,7 +6,7 @@
 
 ![separator](https://user-images.githubusercontent.com/43296168/132062615-3b18c43a-fa5f-45f2-99c3-4b831cde910e.gif)
 
-<div style="color:rgb(17, 100, 102); font-family: 'Merriweather'" align="center">
+<div align="center">
 
 # Set Up Guide
 
