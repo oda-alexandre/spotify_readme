@@ -2,8 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://github.com/oda-alexandre/spotify_readme"
+      "destination": "https://gitlab.com/oda-alexandre/spotify_readme"
     }
   ]
 }
-
